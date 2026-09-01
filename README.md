@@ -1,6 +1,6 @@
 Hi, I’m Francesco 👋  
 
-**Lead Software Engineer @ OpenText**  
+**Senior Frontend Infrastructure Engineer @ coralogix**
 
 I build data-intensive web applications, analytics platforms, and real-time dashboards.
 Specialized in React, TypeScript, frontend architecture and performance optimization for large scale applications.
